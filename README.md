@@ -20,3 +20,8 @@ Projeto desenvolvido no bloco 5 de Fundamentos de Desenvolvimento Web!
 
 2. Acesse pelo linkdo GitPages: https://marianasaraiva.github.io/trybe-project-pixels-art/
 
+## Gif do projeto:
+<p align="center">
+  <img  src="https://github.com/marianasaraiva/trybe-project-pixels-art/blob/main/pixel_artes.gif" alt="Pixel Arts Gif"/>
+</p>
+
